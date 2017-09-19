@@ -17,7 +17,7 @@
     <section>
       <h2>Homastarrunner.con</h2>
       <ul>
-        <li><strong>Email:</strong> <a href="#">l.j.reader@hotmail.com</a></li>
+        <li><strong>Email:</strong> <a href="#">homestarrunner.com</a></li>
         <li><strong>Github:</strong> <a href="#">ljreader</a></li>
         <li><strong>Portfolio:</strong> <a href="#">Boo Yah Yo!</a></li>
       </ul>
